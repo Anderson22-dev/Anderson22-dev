@@ -1,5 +1,5 @@
 <h1 align="center">Anderson Silva Souza</h1>
-<p align="center">Desenvolvedor Front End especializado em JavaScript, TypeScript, React.js e Next.js.</p>
+<p align="center">Desenvolvedor Full Stack especializado em JavaScript e React.js.</p>
 
 ---
 
@@ -33,4 +33,4 @@
 ---
 
 ### 📫 Contato:
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
+- [LinkedIn](https://www.linkedin.com/in/anderson-silva-souza-2b5915268/)
