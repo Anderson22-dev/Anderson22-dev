@@ -1,5 +1,5 @@
 <h1 align="center">Anderson Silva Souza</h1>
-<p align="center">Desenvolvedor Full Stack especializado em JavaScript e React.js.</p>
+<p align="center">Desenvolvedor Full Stack especializado em JavaScript.</p>
 
 ---
 
